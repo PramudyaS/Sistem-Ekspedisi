@@ -1,0 +1,38 @@
+
+
+
+
+#flogin{
+		margin-top:30%;
+}
+#login{
+	margin-left: 40%;
+	width:20%;
+	height:40px;
+}
+#lname{
+	font-size: 18px;
+}
+
+
+
+#navigation{
+	color: white;
+}
+.divider{
+	border-bottom:1px solid black;
+}
+.sidebar{
+	background-color:#1560BD;
+	color:white;
+}
+.menus{
+	 padding: 0 70px;
+     box-sizing: border-box;
+     line-height: 40px;
+     display: block;
+     height: 40px;
+     text-decoration: none !important;
+     color:black;
+}
+
